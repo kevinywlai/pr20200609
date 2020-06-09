@@ -1,0 +1,6 @@
+.project
+.factorypath
+.classpath
+.settings/
+WebContent/WEB-INF/lib
+WebContent/WEB-INF/classes/com
